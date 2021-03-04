@@ -1311,7 +1311,7 @@
     webpack "^4.0.0"
     yorkie "^2.0.0"
 
-"@vue/cli-plugin-router@^4.5.11":
+"@vue/cli-plugin-router@^4.5.11", "@vue/cli-plugin-router@~4.5.0":
   version "4.5.11"
   resolved "https://registry.yarnpkg.com/@vue/cli-plugin-router/-/cli-plugin-router-4.5.11.tgz#3b6df738c5a1a5f50376822bf661d9a3b0c3fa62"
   integrity sha512-09tzw3faOs48IUPwLutYaNC7eoyyL140fKruTwdFdXuBLDdSQVida57Brx0zj2UKXc5qF8hk4GoGrOshN0KfNg==
@@ -8617,6 +8617,11 @@ vue-class-component@^8.0.0-0:
   resolved "https://registry.yarnpkg.com/vue-class-component/-/vue-class-component-8.0.0-rc.1.tgz#db692cd97656eb9a08206c03d0b7398cdb1d9420"
   integrity sha512-w1nMzsT/UdbDAXKqhwTmSoyuJzUXKrxLE77PCFVuC6syr8acdFDAq116xgvZh9UCuV0h+rlCtxXolr3Hi3HyPQ==
 
+vue-cli-plugin-axios@^0.0.4:
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/vue-cli-plugin-axios/-/vue-cli-plugin-axios-0.0.4.tgz#29d4eb48275c7fe15b92e1fd5d95fbe2a966436f"
+  integrity sha512-p2b/fvPJuPBnvU8027PAAuU5DiOzUn2lku8XLG/f6c8FU0N+/MXWZAlOuHhqd9e7+KIZitwe/c8qlmv7TglbTg==
+
 vue-eslint-parser@^7.0.0, vue-eslint-parser@^7.6.0:
   version "7.6.0"
   resolved "https://registry.yarnpkg.com/vue-eslint-parser/-/vue-eslint-parser-7.6.0.tgz#01ea1a2932f581ff244336565d712801f8f72561"
@@ -8653,6 +8658,11 @@ vue-loader@^15.9.2:
     loader-utils "^1.1.0"
     vue-hot-reload-api "^2.3.0"
     vue-style-loader "^4.1.0"
+
+vue-router@^4.0.0-0:
+  version "4.0.4"
+  resolved "https://registry.yarnpkg.com/vue-router/-/vue-router-4.0.4.tgz#ad9b4b7bbdad622407b4ff189b1646f48c1e9053"
+  integrity sha512-uN6PDEaYdU9aRO7mU+Dkr1uaY49hV3fucEDG/Vre/Qj8ct3RoJS16vcPrvKVzn69zDDjBV5b9Xw7fZA9r6b/Iw==
 
 vue-style-loader@^4.1.0, vue-style-loader@^4.1.2:
   version "4.1.3"
